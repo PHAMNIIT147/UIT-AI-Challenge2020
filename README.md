@@ -10,7 +10,7 @@ This is an AI challenge competition held at University Information Technology Ho
       3. [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
       4. [IBM DataPlatform Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/notebooks-parent.html)
       
-  2&3. Code của Google Colab lưu ở đâu? / Khi chương trình chạy trên Google Colab cần đọc dữ liệu thì dữ liệu lưu ở đâu?
+  (23). Code của Google Colab lưu ở đâu? / Khi chương trình chạy trên Google Colab cần đọc dữ liệu thì dữ liệu lưu ở đâu?
     -> Source code **Google Colab** được lưu trữ vĩnh viễn trong [Drive](https://colab.research.google.com/notebooks/io.ipynb#scrollTo=u22w3BFiOveA) của bạn. 
     
   4. Khi chương trình chạy trên Google Colab cần đọc dữ liệu từ máy cục bộ (local computer ví dụ như desktop hay laptop của bạn) thì làm thế nào (gợi ý dùng Form)
