@@ -24,6 +24,9 @@ This is an AI challenge competition held at University Information Technology Ho
       
   6. Cách đổi sang máy dùng GPU?
   -> Trên thanh công cụ hãy chọn: `Edit -> Notebook settings or Runtime -> Change runtime type and select GPU as Hardware accelerator.`
+  # *LAB2*
+ ## Answer:
+ 
 
   
 
